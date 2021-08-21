@@ -759,6 +759,14 @@ body{
 
 
 @media (max-width: 600px) {
+    
+        .cursor{
+
+        img{
+            width: 0%;
+        }
+    }
+
 
     .nav-container{
     
@@ -775,7 +783,7 @@ body{
         margin: -12% 0%;
 
         h1{
-            font-size: 28px;
+            font-size: 26px;
         }
 
     }
@@ -796,7 +804,7 @@ body{
         }
 
         .social-right{
-            margin-left: 48%;
+            margin-left: 46%;
 
             h1{
                 width: 100%;
