@@ -760,7 +760,7 @@ body {
 
 @media (max-width: 380px) {
   .header-container h1 {
-    width: 70%;
+    width: 80%;
     font-size: 14px;
     top: 15%;
     left: 38%;
