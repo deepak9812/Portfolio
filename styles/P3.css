@@ -760,10 +760,10 @@ body {
 
 @media (max-width: 380px) {
   .header-container h1 {
-    width: 60%;
+    width: 70%;
     font-size: 14px;
     top: 15%;
-    left: 32%;
+    left: 38%;
   }
   .arch-container .arch-flex .arch-left h1 {
     padding: 3rem 1.8rem;
@@ -774,7 +774,7 @@ body {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 330px) {
   .nav-container .logo {
     margin: 0% 2%;
   }
@@ -791,7 +791,7 @@ body {
   }
   .header-container h1 {
     width: 85%;
-    left: 50%;
+    left: 45%;
   }
   .pro1-container .pro1-heading .pro1-flex .pro1-left {
     -ms-flex-preferred-size: 35%;
